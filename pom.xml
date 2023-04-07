@@ -5,6 +5,7 @@
 	<groupId>MyTestProject</groupId>
 	<artifactId>MyTestProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	
 	<!-- Send Values for username and password at run time while running Maven command -->
 	
